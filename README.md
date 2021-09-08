@@ -2,7 +2,7 @@
 
 ## Project Idea
 
-Inspired by the AdNovum challenge, we decided to create a blockchain to show the use-cases for governments to fight against fraudulent identification papers and to show visas could be handled also on the blockchain.
+In the context of the LauzHack EPFL Hackathon and inspired by the AdNovum challenge, we decided to create a blockchain to show the use-cases for governments to fight against fraudulent identification papers and to show visas could be handled also on the blockchain.
 
 ## Infrastructure
 
